@@ -1,4 +1,4 @@
-﻿cygwin 
+RXVT config for cygwin 
 =====
 
 While you are selecting the packages you want to install during the cygwin installation process select rxvt(only available in 32-bit cygwin as of 9/16/2014).  
