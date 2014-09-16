@@ -10,3 +10,7 @@ Instead of using the default cygwin shortcut, create a new shortcut with the fol
 C:\cygwin\bin\rxvt.exe -e /bin/bash --login -i
 
 Enjoy a usable terminal  
+
+
+Update
+Just found out about mintty - https://code.google.com/p/mintty/.  Will leave this here is incase anyone is interested in rxvt still.  
